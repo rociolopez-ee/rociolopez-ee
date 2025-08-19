@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Rocio Lopez
 
-<!--
-**rociolopez-ee/rociolopez-ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔧 I'm an electrical engineer passionate about digital signal processing, embedded systems, and RF engineering.
+- 🛠️ I've built Built STM32/ATmega systems, 4-layer PCBs, and DSP (CFAR, matched filters) in MATLAB.
+- 🎓 Currently pursuing my M.S. in E.E. at San Diego State University with an emphasis in signal processing.
+- 🧠 Passionate about signal processing and real-time systems.
+- 🚀 Former intern at Collins Aerospace where I developed radar detection algorithms + RF firmware.
+- 💬 Ask me about microcontroller programming, signal processing, radar systems, and PCB design.
+- 📫 How to reach me: rociolopez-ee@outlook.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I’m training for a triathlon.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
